@@ -4,3 +4,5 @@ tavily-python
 Pillow
 rich
 aiohttp
+PyQt6==6.5.0
+GitPython==3.1.31
