@@ -1,0 +1,6 @@
+Create new directory for resources and images
+
+- Add new location for storing screenshots and other image resources
+- Address the missing resources/images directory from previous branch
+
+Note: Ensures proper organization of project assets
