@@ -2,3 +2,6 @@
 __pycache__
 code_execution_env/
 .env.backup
+src/artifacts/narrative_chunks/*
+src/artifacts/narrative_chunks/*
+ !src/artifacts/narrative_chunks/.gitkeep  
